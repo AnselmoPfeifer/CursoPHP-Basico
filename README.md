@@ -1,6 +1,6 @@
 # CursoPHP-Basico
-Aula 01 -
-	Iniciando com PHP
+#Aula 01 -
+	#Iniciando com PHP
 		Ola Mundo
 		Trabalhando com Variaveis
 		Imprimindo valores na tela
