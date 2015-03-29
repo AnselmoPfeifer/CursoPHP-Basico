@@ -43,13 +43,13 @@
 	  	Removendo  5 no valor de da Soma: <?php echo $soma-= 5; ?>
 	  </p>
 	  <hr>
-	  	<h2>Concatenar variaveis</h2>
-	  	<p>
-	  		Seu nome completo é : <b><?php echo $primeiroNome.	$segundoNome; ?></b>.
-	  	</p>
-	   	<p>
-	  		Completrando um valor na variavel : <b><?php echo $primeiroNome.= " da Silva"; ?></b>.
-	  	</p>
+	  <h2>Concatenar variaveis</h2>
+	  <p>
+	  	Seu nome completo é : <b><?php echo $primeiroNome.	$segundoNome; ?></b>.
+	  </p>
+	  <p>
+	  	Completrando um valor na variavel : <b><?php echo $primeiroNome.= " da Silva"; ?></b>.
+	  </p>
 	  <hr>
 	</body>
 </html>
