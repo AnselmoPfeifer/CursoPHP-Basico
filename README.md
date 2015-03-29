@@ -5,7 +5,7 @@
 		Trabalhando com Variaveis, 
 		Imprimindo valores na tela, 
 		Principais Operadores, 		
-		Quanto é dois mais dois dividido por dois, 
+		Quanto eh dois mais dois dividido por dois, 
 		Pense em um numero, 
 		Site a jato com PHP
 
