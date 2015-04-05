@@ -14,5 +14,10 @@
 		else
 		elseif
 		Condicionais de forma distraida
+#Aula 03 -
+	Laços de Repetição
+		for
+		while
+		do-while
 
 	
